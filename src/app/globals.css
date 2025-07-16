@@ -24,3 +24,8 @@ button {
 .animate-glow {
   animation: glow 2s ease-in-out infinite alternate;
 }
+
+label {
+  color: #00ffff;
+  font: 20px;
+}

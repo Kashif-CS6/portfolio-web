@@ -8,7 +8,7 @@ import Image from "next/image";
 
 const Footer = () => {
   return (
-    <div className="bg-black font-[bold] py-6 flex flex-col gap-4">
+    <div className="bg-black  py-6 flex flex-col gap-4">
       <div className="text-white flex  justify-center gap-6">
         <button className="flex flex-col gap-1 relative">
           <Image src={"/github.svg"} alt="github" width={36} height={36} />

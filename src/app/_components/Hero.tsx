@@ -16,13 +16,13 @@ const Hero = () => {
             className=" w-full h-full object-cover rounded-full"
           />
         </div>
-        <h1 className=" text-[#00ffff] text-4xl font-bold font-[bold]">
+        <h1 className=" text-[#00ffff] text-4xl font-bold ">
           Muhammad Kashif Nabeel
         </h1>
-        <h1 className=" text-white text-2xl font-semibold font-[bold]">
+        <h1 className=" text-white text-2xl font-semibold ">
           MERN Stack Developer
         </h1>
-        <p className="text-[20px] font-[bold] text-white">
+        <p className="text-[20px]  text-white">
           Creating modern, scalable web applications with MongoDB, Express.js,
           React.js, and Node.js
         </p>
