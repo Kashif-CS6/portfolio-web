@@ -16,7 +16,7 @@ const Contact = () => {
                 type="text"
                 name="name"
                 id="name"
-                className="w-full px-4 outline-0 border-0"
+                className="w-full px-4 outline-0 border-0 bg-transparent"
               />
             </div>
           </div>
@@ -28,7 +28,7 @@ const Contact = () => {
                 type="email"
                 name="email"
                 id="email"
-                className="w-full px-4 outline-0 border-0"
+                className="w-full px-4 outline-0 border-0 bg-transparent"
               />
             </div>
           </div>
